@@ -99,7 +99,7 @@ function parseDollarTag(tagString) {
   // Constructing the result object
   const result = {
     tagname: "$",
-    arguments: {content: content}
+    arguments: { content: content }
   };
 
   return result;
@@ -115,10 +115,10 @@ function parsePercentTag(tagString) {
   }
 
   // Capture the arguments
-  const args = 
+  const args =
     matches[1]
-    .trim();
-    // .split(/\s+/);
+      .trim();
+  // .split(/\s+/);
 
   // Constructing the result object
   const result = {
@@ -180,24 +180,24 @@ const registeredTags = [
 
 // Function to escape special characters in regex patterns
 function escapeRegex(string) {
-    return string.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+  return string.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
 }
 
 // Updated processTags function to use a single regex pattern for any tag
 function processTags(file_text) {
-    registeredTags.forEach(tag => {
-        // Escape special characters in the tag name
-        const escapedTagName = escapeRegex(tag.tagname);
+  registeredTags.forEach(tag => {
+    // Escape special characters in the tag name
+    const escapedTagName = escapeRegex(tag.tagname);
 
-        // General regex that works with any tag name including special characters
-        const regex = new RegExp(`<${escapedTagName}\\s[\\s\\S]*?\\/?>`, 'g');
+    // General regex that works with any tag name including special characters
+    const regex = new RegExp(`<${escapedTagName}\\s[\\s\\S]*?\\/?>`, 'g');
 
-        file_text = file_text.replace(regex, match => {
-            const parsedData = tag.parser(match);
-            return tag.processor(parsedData);
-        });
+    file_text = file_text.replace(regex, match => {
+      const parsedData = tag.parser(match);
+      return tag.processor(parsedData);
     });
-    return file_text;
+  });
+  return file_text;
 }
 
 // Updated test string with multi-line content
@@ -225,8 +225,14 @@ since the 1500s, when an unknown printer took a galley of type and scrambled it 
 
 // console.log(processTags(file_text));
 
-fetch('text.txt')
-.then(_ => _.text())
-.then(_ => processTags(_))
-.then(_ => console.log(_));
+// fetch('text.txt')
+// .then(_ => _.text())
+// .then(_ => processTags(_))
+// .then(_ => console.log(_));
+
+
+let x = await fetch('text.txt').then(_ => _.text());
+console.log(`x: ${x}`);
+x = processTags(x);
+console.log(x);
 

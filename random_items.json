@@ -1,0 +1,377 @@
+[
+	{
+		"id": "http://zotero.org/users/1789578/items/CUAK498L",
+		"type": "article-journal",
+		"abstract": "BackgroundMental health problems are elevated in autistic individuals but there is limited evidence on the developmental course of problems across childhood. We compare the level and growth of anxious-depressed, behavioral and attention problems in an autistic and typically developing (TD) cohort.MethodsLatent growth curve models were applied to repeated parent-report Child Behavior Checklist data from age 2–10 years in an inception cohort of autistic children (Pathways, N = 397; 84% boys) and a general population TD cohort (Wirral Child Health and Development Study; WCHADS; N = 884, 49% boys). Percentile plots were generated to quantify the differences between autistic and TD children.ResultsAutistic children showed elevated levels of mental health problems, but this was substantially reduced by accounting for IQ and sex differences between the autistic and TD samples. There was small differences in growth patterns; anxious-depressed problems were particularly elevated at preschool and attention problems at late childhood. Higher family income predicted lower base-level on all three dimensions, but steeper increase of anxious-depressed problems. Higher IQ predicted lower level of attention problems and faster decline over childhood. Female sex predicted higher level of anxious-depressed and faster decline in behavioral problems. Social-affect autism symptom severity predicted elevated level of attention problems. Autistic girls' problems were particularly elevated relative to their same-sex non-autistic peers.ConclusionsAutistic children, and especially girls, show elevated mental health problems compared to TD children and there are some differences in predictors. Assessment of mental health should be integrated into clinical practice for autistic children.",
+		"container-title": "Psychological Medicine",
+		"DOI": "10.1017/S0033291723001599",
+		"ISSN": "0033-2917, 1469-8978",
+		"issue": "16",
+		"language": "en",
+		"note": "number: 16\npublisher: Cambridge University Press",
+		"page": "7707-7719",
+		"source": "Cambridge University Press",
+		"title": "A longitudinal comparison of emotional, behavioral and attention problems in autistic and typically developing children",
+		"URL": "https://www.cambridge.org/core/journals/psychological-medicine/article/longitudinal-comparison-of-emotional-behavioral-and-attention-problems-in-autistic-and-typically-developing-children/71D93F42316EA443846C4FB1D3696025",
+		"volume": "53",
+		"author": [
+			{
+				"family": "Wright",
+				"given": "N."
+			},
+			{
+				"family": "Courchesne",
+				"given": "V."
+			},
+			{
+				"family": "Pickles",
+				"given": "A."
+			},
+			{
+				"family": "Bedford",
+				"given": "R."
+			},
+			{
+				"family": "Duku",
+				"given": "E."
+			},
+			{
+				"family": "Kerns",
+				"given": "C. M."
+			},
+			{
+				"family": "Bennett",
+				"given": "T."
+			},
+			{
+				"family": "Georgiades",
+				"given": "S."
+			},
+			{
+				"family": "Hill",
+				"given": "J."
+			},
+			{
+				"family": "Richard",
+				"given": "A."
+			},
+			{
+				"family": "Sharp",
+				"given": "H."
+			},
+			{
+				"family": "Smith",
+				"given": "I. M."
+			},
+			{
+				"family": "Vaillancourt",
+				"given": "T."
+			},
+			{
+				"family": "Zaidman-Zait",
+				"given": "A."
+			},
+			{
+				"family": "Zwaigenbaum",
+				"given": "L."
+			},
+			{
+				"family": "Szatmari",
+				"given": "P."
+			},
+			{
+				"family": "Elsabbagh",
+				"given": "M."
+			},
+			{
+				"family": "Team",
+				"given": "Pathways"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1789578/items/RF2LZGQ5",
+		"type": "article-journal",
+		"abstract": "Limited research has evaluated neural encoding of sounds from a developmental perspective in individuals with autism (ASD), especially among those with intellectual disability. We compared auditory evoked potentials (AEPs) in autistic adolescents with a wide range of intellectual abilities (n = 40, NVIQ 30–160) to both age-matched cognitively able neurotypical adolescent controls (NT-A, n = 37) and younger neurotypical children (NT-C, n = 27) to assess potential developmental delays. In addition to a classic measure of peak amplitude, we calculated a continuous measure of intra-class correlation (ICC) between each adolescent participant's AEP and the age-normative, average AEP waveforms calculated from NT-C and NT-A to study differences in signal morphology. We found that peak amplitudes of neural responses were significantly smaller in autistic adolescents compared to NT-A. We also found that the AEP morphology of autistic adolescents looked more like NT-A peers than NT-C but was still significantly different from NT-A AEP waveforms. Results suggest that AEPs of autistic adolescents present differently from NTs, regardless of age, and differences cannot be accounted for by developmental delay. Nonverbal intelligence significantly predicted how closely each adolescent's AEP resembled the age-normed waveform. These results support an evolving theory that the degree of disruption in early neural responses to low-level inputs is reflected in the severity of intellectual impairments in autism.",
+		"container-title": "Autism Research",
+		"DOI": "10.1002/aur.3003",
+		"ISSN": "1939-3806",
+		"issue": "10",
+		"language": "en",
+		"license": "© 2023 International Society for Autism Research and Wiley Periodicals LLC.",
+		"note": "number: 10\n_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/aur.3003",
+		"page": "1859-1876",
+		"source": "Wiley Online Library",
+		"title": "Auditory evoked potentials in adolescents with autism: An investigation of brain development, intellectual impairment, and neural encoding",
+		"title-short": "Auditory evoked potentials in adolescents with autism",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aur.3003",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Schwartz",
+				"given": "Sophie"
+			},
+			{
+				"family": "Wang",
+				"given": "Le"
+			},
+			{
+				"family": "Uribe",
+				"given": "Sofia"
+			},
+			{
+				"family": "Shinn-Cunningham",
+				"given": "Barbara G."
+			},
+			{
+				"family": "Tager-Flusberg",
+				"given": "Helen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1789578/items/2DESE6M5",
+		"type": "article-journal",
+		"abstract": "A recent cognitive model suggests that autistic individuals may experience dichotomous thinking patterns mediated by intolerance of uncertainty; however, empirical evidence to support this model is lacking. This study aimed to identify the relationships between autistic traits, intolerance of uncertainty, and dichotomous thinking using the Autism Spectrum Quotient, Short Intolerance of Uncertainty Scale, and the Dichotomous Thinking Inventory. We collected data from non-clinical university students (N = 151; pilot study) and general adults (N = 500; main study) and analyzed the results using structural equation modeling. Both studies showed a significant indirect effect of autistic traits on dichotomous thinking mediated by intolerance of uncertainty. Moreover, the results indicated that intolerance of uncertainty was significantly and positively associated with Autism Spectrum Quotient and Dichotomous Thinking Inventory scores. Conversely, there was a significant negative direct association between Autism Spectrum Quotient and Dichotomous Thinking Inventory scores. This is the first study to demonstrate that autistic traits can result in dichotomous thinking through intolerance of uncertainty. These findings provide insight into the cognitive patterns of autistic individuals.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/s41598-023-41164-8",
+		"ISSN": "2045-2322",
+		"issue": "1",
+		"journalAbbreviation": "Sci Rep",
+		"language": "en",
+		"license": "2023 The Author(s)",
+		"note": "number: 1\npublisher: Nature Publishing Group",
+		"page": "14049",
+		"source": "www.nature.com",
+		"title": "Autistic traits associated with dichotomic thinking mediated by intolerance of uncertainty",
+		"URL": "https://www.nature.com/articles/s41598-023-41164-8",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Suzuki",
+				"given": "Noi"
+			},
+			{
+				"family": "Hirai",
+				"given": "Masahiro"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1789578/items/NKPS2Z4Y",
+		"type": "article-journal",
+		"abstract": "Intelligence quotient (IQ), has been found to relate to the presence of internalising symptoms in autism spectrum disorder (ASD). This meta-analysis sought to clarify the direction of the relationship between IQ and two prevalent internalising symptoms, anxiety and depression, in adolescents with ASD. Secondly, this study aimed to highlight methodological factors contributing to inconsistent findings in existing research. Self-reported anxiety was found to be significantly higher in youth with a lower IQ, while depression was positively associated with IQ. Consequently, parents, schools and clinicians should be cautious of underestimating anxiety in youth with a lower IQ. However, care should also be taken to ensure adolescents with ASD without intellectual disabilities are not overlooked with regards to social and emotional support.",
+		"container-title": "Journal of Autism and Developmental Disorders",
+		"DOI": "10.1007/s10803-020-04810-y",
+		"ISSN": "1573-3432",
+		"issue": "11",
+		"journalAbbreviation": "J Autism Dev Disord",
+		"language": "en",
+		"page": "3887-3907",
+		"source": "Springer Link",
+		"title": "IQ and Internalising Symptoms in Adolescents with ASD",
+		"URL": "https://doi.org/10.1007/s10803-020-04810-y",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Edirisooriya",
+				"given": "Monisha"
+			},
+			{
+				"family": "Dykiert",
+				"given": "Dominika"
+			},
+			{
+				"family": "Auyeung",
+				"given": "Bonnie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1789578/items/LG823CJF",
+		"type": "article-journal",
+		"abstract": "Psychometric, historiometric and psychiatric studies are controversial on a hypothetical link between psychopathology and creativity. In this study, we will try to contribute to this debate by analysing the case of autism. Is there a relationship between autism and creativity? If so, can we find the same relationship in a watered-down form in subjects with autistic traits? In order to answer these questions, we carried out a systematic literature review of the studies on this topic published in the last 10 years. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. We also conducted a meta-analysis of data. We found that in the clinical population there are fewer creative performances than in control groups; nonetheless, it is possible to delineate a medium creative profile of subjects with autism. The average creative profile of people with autism shows that they are inhibited in fluency and flexibility, but that they display a high level of detail and a particularly high level of originality in works either generated during tests or created in private time. In particular, the level of detail reached in the latter condition seems to be higher in the autistic population than in the control groups. Better linguistic skills appear to be linked to better creative performances. Linguistic tests, if compared with visual and performative tests, seem to favour the expression of originality in subjects with autism. Although our data on autistic traits are compatible with the hypothesis that a high level of autistic traits is a watered-down replica of the cognitive profile of subjects with autism, we have no sufficient data to support this hypothesis.",
+		"container-title": "Cognitive Processing",
+		"DOI": "10.1007/s10339-020-00992-6",
+		"ISSN": "1612-4790",
+		"issue": "1",
+		"journalAbbreviation": "Cogn Process",
+		"language": "en",
+		"page": "1-36",
+		"source": "Springer Link",
+		"title": "Autism, autistic traits and creativity: a systematic review and meta-analysis",
+		"title-short": "Autism, autistic traits and creativity",
+		"URL": "https://doi.org/10.1007/s10339-020-00992-6",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Pennisi",
+				"given": "Paola"
+			},
+			{
+				"family": "Giallongo",
+				"given": "Laura"
+			},
+			{
+				"family": "Milintenda",
+				"given": "Giusy"
+			},
+			{
+				"family": "Cannarozzo",
+				"given": "Michela"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					10
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/1789578/items/HM8UE97P",
+		"type": "article",
+		"abstract": "Background High cognitive ability is an almost universally positive prognostic indicator in the context of neurodevelopmental, neuropsychiatric, and neurodegenerative conditions. However, “twice-exceptional” individuals, those who demonstrate exceptionally high cognitive ability (gifted) and exhibit profound behavioral and mental health challenges, are a striking exception to this rule.\nMethods We digitized the clinical records of N=1,074 clients from a US-based specialty clinic serving gifted students. This included a broad array of diagnostic, cognitive, achievement, and behavioral data, including self, teacher, and parent reported items. We conducted both hypothesis-driven and unsupervised learning analyses to 1) identify characteristics whose association with full-scale IQ (FSIQ) was dependent on autism diagnosis and 2) identify cognitive archetypes associated with autism diagnosis and related behaviors. We tested the generalization of our findings using data from the SPARK (N=17,634) and ABCD studies (N=10,602).\nResults Autistic individuals with IQ >= 120 were nearly 15 times more likely to enter adulthood undiagnosed compared to lower-IQ (IQ < 70) counterparts. Self-reported sense of inadequacy was most strongly associated with increasing FSIQ specifically among autistic clients (beta=0.3, 95% CI:[0.15,0.45], p=7.1×10−5). Similarly, self, parent, and teacher reports of anxiety increased with FSIQ (all p<0.05) in autistic individuals, in striking opposition to the ameliorating effect of FSIQ seen in non-autistic individuals. We uncovered a pattern of decreased processing speed (PS) coupled with very high verbal comprehension (VC), a PS/VC discrepancy, that was associated with autism, inattention, and internalizing problems. Similar cognitive-behavioral links were also observed in the ABCD study. Finally, we found a significant association between the PS/VC discrepancy and polygenic risk for autism in the ABCD sample (t=2.9, p=0.004).\nConclusions Our results suggest that autistic individuals with exceptional ability are underserved and suffer disproportionately from high anxiety and low self-worth. In addition, elevated IQ with a significant PS/VC discrepancy appears to be a clinically and genetically meaningful biotype linked to autism.",
+		"DOI": "10.1101/2021.11.02.21265802",
+		"language": "en",
+		"license": "© 2022, Posted by Cold Spring Harbor Laboratory. This pre-print is available under a Creative Commons License (Attribution-NonCommercial-NoDerivs 4.0 International), CC BY-NC-ND 4.0, as described at http://creativecommons.org/licenses/by-nc-nd/4.0/",
+		"note": "page: 2021.11.02.21265802",
+		"publisher": "medRxiv",
+		"source": "medRxiv",
+		"title": "Autism in gifted youth is associated with low processing speed and high verbal ability",
+		"URL": "https://www.medrxiv.org/content/10.1101/2021.11.02.21265802v2",
+		"author": [
+			{
+				"family": "Michaelson",
+				"given": "Jacob J."
+			},
+			{
+				"family": "Doobay",
+				"given": "Alissa"
+			},
+			{
+				"family": "Casten",
+				"given": "Lucas"
+			},
+			{
+				"family": "Schabilion",
+				"given": "Katherine"
+			},
+			{
+				"family": "Foley-Nicpon",
+				"given": "Megan"
+			},
+			{
+				"family": "Nickl-Jockschat",
+				"given": "Thomas"
+			},
+			{
+				"family": "Abel",
+				"given": "Ted"
+			},
+			{
+				"family": "Assouline",
+				"given": "Susan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					1,
+					11
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					3,
+					2
+				]
+			]
+		}
+	}
+]
